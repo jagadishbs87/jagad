@@ -1,3 +1,5 @@
-x=10
-y=20
-print(x+y)
+num = -11
+if num>=0:
+print("positive number")
+else:
+print("negative number")
